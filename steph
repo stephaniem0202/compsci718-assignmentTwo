@@ -1,0 +1,22 @@
+BULLS AND COWS GAME
+Your secret code [1, 2, 3, 4]
+Computer secret code [2, 0, 7, 8]
+TURN 1
+You guessed [1, 3, 4, 5]  Scoring 0 Bulls and 0 Cows
+Computer guessed [7, 0, 2, 1]  Scoring 0 Bulls and 2 Cows
+TURN 2
+You guessed [8, 9, 5, 7]  Scoring 0 Bulls and 2 Cows
+Computer guessed [3, 7, 1, 4]  Scoring 1 Bulls and 2 Cows
+TURN 3
+You guessed [0, 9, 8, 7]  Scoring 0 Bulls and 3 Cows
+Computer guessed [3, 1, 7, 8]  Scoring 0 Bulls and 2 Cows
+TURN 4
+You guessed [1, 2, 3, 4]  Scoring 0 Bulls and 1 Cows
+Computer guessed [5, 4, 1, 7]  Scoring 0 Bulls and 2 Cows
+TURN 5
+You guessed [1, 2, 3, 4]  Scoring 0 Bulls and 1 Cows
+Computer guessed [1, 7, 4, 2]  Scoring 1 Bulls and 2 Cows
+TURN 6
+You guessed [1, 2, 3, 4]  Scoring 0 Bulls and 1 Cows
+Computer guessed [1, 2, 3, 4]  Scoring 4 Bulls and 0 Cows
+WINNER: Computer (hard) Won
